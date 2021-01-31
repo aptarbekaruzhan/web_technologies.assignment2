@@ -1,0 +1,71 @@
+body
+{background-color:#ffff7b;
+}
+
+p{
+    text-transform: uppercase;
+    text-decoration-skip: inherit;
+}
+p1 {
+    text-transform: uppercase;
+    text-align:justify ;
+    text-decoration-color :#EACBAE;
+    text-shadow: lavenderblush;
+}
+
+div1 {
+    background-color:lavenderblush;
+    width: 25%;
+    text-align: left: 20%;
+    box-shadow: 5px 5px 10px black;
+    border: 5px solid black;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+div2 {
+    float: right;
+    background-color: lavenderblush;
+    width: 25%;
+    text-align: left: 40%;
+    box-shadow: 5px 5px 10px black;
+    border: 5px solid black;
+    margin-right: 10%;
+    margin-top: -29%;
+    border-radius:   
+}
+
+div3 {
+    background-color: lavenderblush;
+    width: 50%; height: 20%;
+    text-align: center;
+    box-shadow: 5px 5px 10px black;
+    border: 5px solid black;
+    margin-left: 42%; 
+    margin-top: -29% ;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  
+  .fa-telegram {
+    background: #3B5998;
+    color: white;
+  }
+  
+  
+  .fa-instagram {
+    background: #55ACEE;
+    color: white;
+  }
+  
